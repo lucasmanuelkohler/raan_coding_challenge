@@ -10,25 +10,25 @@ After successfully uploading the data, a 2d and a 3d plot of the network opens.
 ## How to run the app:
 To run the app download the repository:
 
-Open terminal and set the current directory to the desired folder 
+Open terminal and set the current directory to the desired folder: 
 `cd ...`
 
-Clone the git repository:
+Clone the git repository (install git first) or download directly from [GitHub](https://github.com/lucasmanuelkohler/raan_coding_challenge.git): 
 `git clone https://github.com/lucasmanuelkohler/raan_coding_challenge.git`
 
-Go to this folder:
+Go to this folder: 
 `cd raan_coding_challenge`
 
-Optionally set new python environment:
-`
-python3 -m venv venv`
+Optionally set new python environment: 
+`python3 -m venv venv` 
+
 `source venv/bin/activate
 `
 
-Install the requirements:
+Install the requirements: 
 `pip install -r requirements.txt`
 
-Run the app:
+Run the app: 
 `python app.py`
 
 Open the displayed URL in a web browser and upload the given file [Flask App](http://127.0.0.1:5000/).
