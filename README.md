@@ -10,7 +10,7 @@ After successfully uploading the data, a 2d and a 3d plot of the network opens.
 ## How to run the app:<br />
 To run the app download the repository:
 
-Open terminal and set the current directory to the desired folder: <br />
+Open a terminal window and set the current directory to the desired folder: <br />
 `cd ...`
 
 Clone the git repository (install git first) or download directly from [GitHub](https://github.com/lucasmanuelkohler/raan_coding_challenge.git): <br />
