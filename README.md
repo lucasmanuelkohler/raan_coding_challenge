@@ -19,7 +19,7 @@ Clone the git repository:
 Go to this folder:
 `cd raan_coding_challenge`
 
-Optionally Set new python environment:
+Optionally set new python environment:
 `
 python3 -m venv venv
 source venv/bin/activate
@@ -31,8 +31,7 @@ Install the requirements:
 Run the app:
 `python app.py`
 
-Open the displayed URL in a web browser (http://127.0.0.1:5000/) and upload the given file. 
-[Flask App](http://127.0.0.1:5000/)
+Open the displayed URL in a web browser and upload the given file [Flask App](http://127.0.0.1:5000/).
 
 If a new environment was create, deactivate it with:
 `deactivate` or `source deactivate` 
